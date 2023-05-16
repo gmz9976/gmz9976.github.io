@@ -28,3 +28,17 @@ Contact Me
 I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/).
 
 You can also contact my with following email address: mzgao AT njnet.edu.cn
+
+
+Publications
+======
+
+2023
+  - Rectify the Malware Family Label via Hybrid Analysis
+  - Wang Yang, **Mingzhe Gao***, Ligeng Chen, Zhengxuan Liu, Lingyun Ying
+  - Computer & Security
+
+2021
+  - A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning
+  - Wang Yang, **Mingzhe Gao***, Ting Jiang
+  - Journal of computer research and development(EI) Corresponding Author
