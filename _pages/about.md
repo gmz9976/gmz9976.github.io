@@ -19,7 +19,7 @@ You can find my CV here: [Mingzhe Gao's Curriculum Vitae](../assets/Mingzhe_Gao_
 
 Research Interest
 ======
-My current research interests mainly include Software Security, System Security and Data Mining. More specifically, my research interests include areas such as binary malware/webshell detection, static program analysis (AST / opcode), and adversarial attacks against learning systems.
+My current research interests mainly include Software Security, System Security and Data Mining. More specifically, my research interests include areas such as binary analysis, malware(binary / webshell) detection / family taxonomy, static program analysis, and adversarial attacks against learning systems.
 
 
 Contact Me
@@ -36,9 +36,9 @@ Publications
 2023
   - Rectify the Malware Family Label via Hybrid Analysis
   - Wang Yang, **Mingzhe Gao***, Ligeng Chen, Zhengxuan Liu, Lingyun Ying
-  - Computer & Security
+  - Computer & Security(CCF B)
 
 2021
   - A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning
   - Wang Yang, **Mingzhe Gao***, Ting Jiang
-  - Journal of computer research and development(EI) Corresponding Author
+  - Journal of computer research and development(EI)
