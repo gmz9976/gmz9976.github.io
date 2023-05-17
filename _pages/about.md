@@ -33,11 +33,11 @@ Publications
 ======
 
 2023
-  - Rectify the Malware Family Label via Hybrid Analysis
+  - [Rectify the Malware Family Label via Hybrid Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000871)
   - Wang Yang, **Mingzhe Gao***, Ligeng Chen, Zhengxuan Liu, Lingyun Ying
   - Computer & Security(CCF B)
 
 2021
-  - A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning
+  - [A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200912)
   - Wang Yang, **Mingzhe Gao***, Ting Jiang
   - Journal of computer research and development(EI)
