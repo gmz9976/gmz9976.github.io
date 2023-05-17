@@ -21,13 +21,6 @@ Research Interest
 My current research interests mainly include Software Security, System Security and Data Mining. More specifically, my research interests include areas such as binary analysis, malware(binary / webshell) detection / family taxonomy, static program analysis, and adversarial attacks against learning systems.
 
 
-Contact Me
-======
-
-I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/).
-
-You can also contact my with following email address: mzgao AT njnet.edu.cn
-
 
 Publications
 ======
@@ -41,3 +34,11 @@ Publications
   - [A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200912)
   - Wang Yang, **Mingzhe Gao***, Ting Jiang
   - Journal of computer research and development(EI)
+
+
+Contact Me
+======
+
+I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/).
+
+You can also contact my with following email address: mzgao AT njnet.edu.cn
