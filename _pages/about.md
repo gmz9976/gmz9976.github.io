@@ -31,7 +31,7 @@ Publications
 2021
   - [A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200912)
   - Wang Yang, **Mingzhe Gao***, Ting Jiang
-  - Journal of computer research and development (CCF A)
+  - Journal of computer research and development (EI)
 
 
 Contact Me
