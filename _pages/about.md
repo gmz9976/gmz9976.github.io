@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I am a security engineer at Alibaba Cloud Security, focusing on malware detection, data security, etc.
 
-I received my Master's degree in Computer Technology from the School of Cyber Science and Engineering, Southeast University, China in 2022.
+I received my Master's degree in Computer Technology from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China in 2022.
 
 
 You can find my CV here: [Mingzhe Gao's Curriculum Vitae](../assets/Mingzhe_Gao_Resume.pdf).
