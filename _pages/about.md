@@ -18,7 +18,7 @@ You can find my CV here: [Mingzhe Gao's Curriculum Vitae](../assets/Mingzhe_Gao_
 
 Research Interest
 ======
-My current research interests mainly include Software Security, System Security and Data Mining. More specifically, my research interests include areas such as binary analysis, detection and family taxonomy of malware ( encompassing both binary and script ),  static program analysis, and adversarial attacks against learning systems.
+My current research interests primarily revolve around Software Security, System Security, and Data Mining. Specifically, I am deeply interested in the following areas: binary analysis, malware detection and family taxonomy (encompassing both binary and script-based malware), static program analysis, and adversarial attacks against learning systems.
 
 Publications
 ======
