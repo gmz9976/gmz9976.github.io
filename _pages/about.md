@@ -24,7 +24,7 @@ Publications
 ======
 
 2023
-  - [Rectify the Malware Family Label via Hybrid Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000871)
+  - [RecMaL: Rectify the Malware Family Label via Hybrid Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000871)
   - Wang Yang, **Mingzhe Gao***, Ligeng Chen, Zhengxuan Liu, Lingyun Ying
   - Computer & Security ( CCF B )
   - In this work, we conduct an in-depth analysis to explore the severity of the malware mislabel issue, and try to rectify the description of malware generated from anti-virus engines. We first propose a malware label correction tool called RecMaL. It employs hybrid analyses for malware label rectifying. According to the thorough exploratory analysis, we figure out the core reasons for mislabeling issues and summarize them into 3 types.
