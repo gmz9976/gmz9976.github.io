@@ -34,7 +34,7 @@ Publications
 2021
   - [A Malicious Code Static Detection Framework Based on Multi-Feature Ensemble Learning](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20200912)
   - Wang Yang, **Mingzhe Gao***, Ting Jiang
-  - Journal of computer research and development ( EI )
+  - Journal of computer research and development ( CCF T1 )
   - In this work, we propose a static malware detection framework based on multi-feature ensemble learning. The experimental results show the detection accuracy of multi-feature multi-model aggregation algorithm can reach 96.99%, which prove the method has better malware identification ability than other static detection methods, and higher recognition rate for malwares using packing or obfuscation techniques.
 
 
