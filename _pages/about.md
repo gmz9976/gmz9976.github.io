@@ -41,6 +41,6 @@ Publications
 Contact Me
 ======
 
-; I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/).
+<!-- I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/). -->
 
 You can contact my with following email address: mzgao AT njnet.edu.cn
