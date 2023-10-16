@@ -34,6 +34,13 @@ Publications
     - 在这项工作中，我们提出了一种基于多特征集合学习的静态恶意软件检测框架。实验结果表明，多特征多模型集合算法的检测准确率可达96.99%，对使用加壳或混淆技术的恶意软件具有更高的识别率。-->
 
 
+Experiences
+======
+- Alibaba Cloud (2022 ~ Present)
+  - Security Engineer: Web-server malware detection; Data leak protection; Anti-Bot;
+- QiAnXin Technology Institute (2020 ~ 2022)
+  - Research Internship: Dynamic behavior analysis; Malware family annotation; 
+
 
 Contact Me
 ======
