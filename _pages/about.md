@@ -36,9 +36,9 @@ Publications
 Experiences
 ======
 - Alibaba Cloud (2022 ~ Present)
-  - Security Engineer: Web-server malware detection; Data leak protection; Anti-Bot;
+  - Security Engineer: Web-server Malware Detection; Data Leak Protection; Anti-Bot;
 - QiAnXin Technology Institute (2020 ~ 2022)
-  - Research Internship: Dynamic behavior analysis; Malware family annotation; 
+  - Research Internship: Dynamic Behavior Analysis; Malware Family Annotation; 
 
 Professional Services
 =====
