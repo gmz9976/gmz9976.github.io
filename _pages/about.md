@@ -51,4 +51,4 @@ Contact Me
 
 <!-- I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/). -->
 
-You can contact my with following email address: mzgao AT njnet.edu.cn
+You can contact me at the following email address: mzgao AT njnet.edu.cn
