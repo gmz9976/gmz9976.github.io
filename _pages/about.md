@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a security engineer at Alibaba Cloud Security [XinHuo Lab](https://ti.aliyun.com/#/overview), focusing on malware detection, data security, etc.
+Currently, I am a security engineer at Alibaba Cloud Security [XinHuo Lab](https://ti.aliyun.com/#/overview), focusing on malware detection, data security, and Anti-Bot.
 
 Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) in January 2022, advised by Prof. Jian Gong and Ph.D. Wang Yang.
 
