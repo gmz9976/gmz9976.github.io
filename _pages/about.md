@@ -10,10 +10,13 @@ redirect_from:
 
 Currently, I am a security engineer at Alibaba Cloud Security [XinHuo Lab](https://ti.aliyun.com/#/overview), focusing on malware detection, data security, etc.
 
-I received my Master's degree in Computer Technology from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China in 2022.
+Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) in January 2022, advised by Prof. Jian Gong and Ph.D. Wang Yang.
 
 
-You can find my CV here: [Mingzhe Gao's Curriculum Vitae](../assets/Mingzhe_Gao_Resume.pdf).
+<!--I received my Master's degree in Computer Technology from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China in 2022. -->
+
+
+ You can find my CV here: [Mingzhe Gao's Curriculum Vitae](../assets/Mingzhe_Gao_Resume.pdf). 
 
 
 Research Interest
@@ -44,6 +47,11 @@ Professional Services
 =====
 
 - IEEE Transactions on Network and Service Management (TNSM): Reviewer 2023
+
+Honor
+=====
+
+- 江苏省网络空间安全学会优秀硕士学位论文, 2023
 
 
 Contact Me
