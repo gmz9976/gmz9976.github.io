@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a security engineer at Alibaba Cloud Security [XinHuo Lab](https://ti.aliyun.com/#/overview), focusing on malware detection, data security, and Anti-Bot.
+Currently, I am a security engineer at Alibaba Cloud Security [XinHuo Lab](https://ti.aliyun.com/#/overview), focusing on malware detection, Anti-Bot, and captcha behavior analysis.
 
 Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) in January 2022, advised by Prof. Jian Gong and Ph.D. Wang Yang.
 
@@ -39,7 +39,7 @@ Publications
 Experiences
 ======
 - Alibaba Cloud: 2022 ~ Present
-  - Security Engineer: Web-server Malware Detection; Data Leak Protection; Anti-Bot;
+  - Security Engineer: Web Shell Detection; Data Leak Protection; Anti-Bot;
 - QiAnXin Technology Institute: 2020 ~ 2022
   - Research Internship: Dynamic Behavior Analysis; Malware Family Annotation; 
 
