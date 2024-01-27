@@ -16,7 +16,7 @@ Before that, I received my M.Eng. from the [School of Cyber Science and Engineer
 <!--I received my Master's degree in Computer Technology from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China in 2022. -->
 
 
- You can find my CV here: [Mingzhe Gao's Curriculum Vitae](../assets/Mingzhe_Gao_Resume.pdf). 
+ You can find my CV here: [Curriculum Vitae](../assets/Mingzhe_Gao_Resume.pdf). 
  You can find my Chinese CV here: [中文简历](../assets/高明哲.pdf). 
 
 
