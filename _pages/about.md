@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a security engineer at Alibaba Cloud Group, focusing on webshell detection, Anti-Bot, and captcha behavior analysis.
+Currently, I am a security engineer at Alibaba Cloud Group, focusing on webshell detection and bot traffic detection.
 
 Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) in January 2022, advised by Prof. Jian Gong and Ph.D. Wang Yang.
 
