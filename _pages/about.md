@@ -28,7 +28,7 @@ Publications
 ======
   - PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation
     - Bo Pang, Yiheng Zhang, **Mingzhe Gao**, Junzhe Zhang, Ligeng Chen, Mingxue Zhang, Gang Liang
-    - S&P (CCF Rank A, 2025), acceptance rate 15.1% (151/1000), 2025
+    - S&P (CCF Rank A, 2025), acceptance rate 15.1% (151/1000)
   
   - [RecMaL: Rectify the Malware Family Label via Hybrid Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000871)
     - Wang Yang, **Mingzhe Gao***, Ligeng Chen, Zhengxuan Liu, Lingyun Ying
