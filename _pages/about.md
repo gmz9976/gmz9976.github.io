@@ -16,8 +16,9 @@ Before that, I received my M.Eng. from the [School of Cyber Science and Engineer
 <!--I received my Master's degree in Computer Technology from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China in 2022. -->
 
 
- You can find my CV here: [Curriculum Vitae](../assets/Mingzhe_Resume.pdf). 
+ <!-- You can find my CV here: [Curriculum Vitae](../assets/Mingzhe_Resume.pdf). 
  You can find my Chinese CV here: [Chinese CV](../assets/mingzhe_cn.pdf). 
+ -->
 
 
 Research Interest
