@@ -27,6 +27,7 @@ My current research interests primarily revolve around Software Security, System
 
 Publications
 ======
+"(*)" Denotes the Corresponding Author.
   - PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation
     - Bo Pang, Yiheng Zhang, **Mingzhe Gao**, Junzhe Zhang, Ligeng Chen, Mingxue Zhang, Gang Liang
     - S&P (CCF Rank A, 2025), acceptance rate 15.1% (151/1000)
