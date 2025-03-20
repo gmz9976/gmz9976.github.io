@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I am a security engineer at Alibaba Cloud Group, focusing on webshell detection and bot traffic detection.
 
-Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) in January 2022, advised by Prof. Jian Gong and Ph.D. Wang Yang.
+Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), Southeast University in January 2022, advised by [Prof. Jian Gong](https://cyber.seu.edu.cn/gj1/list.htm) and [Ph.D. Wang Yang](https://cyber.seu.edu.cn/yw1/list.htm).
 
 
 <!--I received my Master's degree in Computer Technology from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China in 2022. -->
