@@ -44,7 +44,7 @@ Publications
 Experiences
 ======
 - Alibaba Cloud Computing: 2022 ~ Present
-  - Security Engineer: Web Shell Detection; Data Leak Protection; Anti-Bot;
+  - Security Engineer: Web/App Crawler Detection;
 - QiAnXin Technology Institute: 2020 ~ 2022
   - Research Internship: Dynamic Behavior Analysis; Malware Family Annotation; 
 
