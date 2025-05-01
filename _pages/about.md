@@ -29,12 +29,12 @@ Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
   - Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection
-    - <u>Mingzhe Gao</u>, Yuhang Chen, Bo Pang, Yiling He, Ligeng Chen, Lingyun Ying, Wang Yang
+    - <u>Mingzhe Gao</u>, Yuhang Chen, Bo Pang, Yiling He, Ligeng Chen, Lingyun Ying, Mingxue Zhang, Wang Yang
     - IWQOS (CCF Rank B, 2025)
 
   
-  - PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation
-    - Bo Pang, Yiheng Zhang, <u>Mingzhe Gao</u>, Junzhe Zhang, Ligeng Chen, [Mingxue Zhang](https://zhangmx1997.github.io/), Gang Liang
+  - [PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a918/26hiU0IeM3S)
+    - Bo Pang, Yiheng Zhang, <u>Mingzhe Gao</u>, Junzhe Zhang, Ligeng Chen, Mingxue Zhang, Gang Liang
     - S&P (CCF Rank A, 2025), acceptance rate 15.1% (151/1000)
   
   - [RecMaL: Rectify the Malware Family Label via Hybrid Analysis](https://www.sciencedirect.com/science/article/abs/pii/S0167404823000871)
