@@ -28,6 +28,11 @@ My current research interests primarily revolve around Software Security, System
 Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
+  - Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection
+    - <u>Mingzhe Gao</u>, Yuhang Chen, Bo Pang, Yiling He, Ligeng Chen, Lingyun Ying, Wang Yang
+    - IWQOS (CCF Rank B, 2025)
+
+  
   - PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation
     - Bo Pang, Yiheng Zhang, <u>Mingzhe Gao</u>, Junzhe Zhang, Ligeng Chen, [Mingxue Zhang](https://zhangmx1997.github.io/), Gang Liang
     - S&P (CCF Rank A, 2025), acceptance rate 15.1% (151/1000)
