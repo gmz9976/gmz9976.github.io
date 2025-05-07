@@ -77,4 +77,6 @@ Contact Me
 
 <!-- I will share some academic thinkings in my [CSDN account](https://mzgao.blog.csdn.net/). -->
 
-You can contact me at the following email address: mzgao@njnet.edu.cn
+You can contact me at the following email address: mzgao@njnet.edu.cn. Alternatively, you can reach out to me via my work email address: gaomingzhe.gmz@alibaba-inc.com.
+
+
