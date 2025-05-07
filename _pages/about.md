@@ -61,7 +61,7 @@ Professional Services
 Honor
 =====
 
-- [江苏省网络空间安全学会优秀硕士学位论文](https://www.jscsa.org.cn/contents/197/272.html), 2023 
+- [江苏省网络空间安全学会优秀硕士学位论文](https://www.jscsa.org.cn/contents/197/272.html), 2023 （全省当年共计入选6人）
 
 
 Contact Me
