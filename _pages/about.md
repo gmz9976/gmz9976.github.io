@@ -22,10 +22,8 @@ Before that, I received my M.Eng. from the [School of Cyber Science and Engineer
 
 Professional Memberships
 ======
-<a href="https://www.ieee.org" target="_blank">
-  <img src="https://www.ieee.org/documents/ieee_logo_mb_tagline.gif" alt="IEEE Member" style="height: 40px; margin: 5px 10px 5px 0;">
-</a>
-- **IEEE Professional Member** (2025 - Present)  
+
+- *IEEE Professional Member* (2025 - Present)  
 
 Research Interest
 ======
