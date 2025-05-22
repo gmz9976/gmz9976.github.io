@@ -20,10 +20,6 @@ Before that, I received my M.Eng. from the [School of Cyber Science and Engineer
  You can find my Chinese CV here: [Chinese CV](../assets/mingzhe_cn.pdf). 
  -->
 
-Professional Memberships
-======
-
-- *IEEE Professional Member* (2025 - Present)  
 
 Research Interest
 ======
@@ -64,6 +60,11 @@ Experiences
   - Security Engineer: Web/App Crawler Detection;
 - QiAnXin Technology Institute: 2020 ~ 2022
   - Research Internship: Dynamic Behavior Analysis; Malware Family Annotation; 
+
+Professional Memberships
+======
+
+- *IEEE Professional Member* (2025 - Present)  
 
 Professional Services
 =====
