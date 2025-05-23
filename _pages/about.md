@@ -29,7 +29,7 @@ Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
   - Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection
-    - <u>Mingzhe Gao</u>, Bo Pang, Yuhang Chen, Ligeng Chen, Yiling He, Lingyun Ying, Wang Yang
+    - <u>Mingzhe Gao</u>, Wang Yang, Ligeng Chen, Yiling He, Yuhang Chen, Bo Pang, Lingyun Ying,
     - IWQOS (CCF Rank B, 2025)
 
   
