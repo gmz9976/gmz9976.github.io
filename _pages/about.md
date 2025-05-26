@@ -20,7 +20,6 @@ Before that, I received my M.Eng. from the [School of Cyber Science and Engineer
  You can find my Chinese CV here: [Chinese CV](../assets/mingzhe_cn.pdf). 
  -->
 
-
 Research Interest
 ======
 My current research interests primarily revolve around Software Security, System Security, and Data Mining. Specifically, I am deeply interested in the following areas: concept drift of malware detection, static analysis, code similarity, malware family taxonomy (encompassing both binary and script-based malware), and adversarial attacks against learning systems.
@@ -28,10 +27,10 @@ My current research interests primarily revolve around Software Security, System
 Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
+
   - Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection
     - <u>Mingzhe Gao</u>, Wang Yang, Ligeng Chen, Yiling He, Yuhang Chen, Bo Pang, Lingyun Ying,
     - IWQOS (CCF Rank B, 2025)
-
   
   - [PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a918/26hiU0IeM3S)
     - Bo Pang, Yiheng Zhang, <u>Mingzhe Gao</u>, Junzhe Zhang, Ligeng Chen, Mingxue Zhang, Gang Liang
@@ -64,7 +63,7 @@ Experiences
 Professional Memberships
 ======
 
-- *IEEE Professional Member* (2025 - Present)  
+- IEEE Professional Member (2025 - Present)  
 
 Professional Services
 =====
