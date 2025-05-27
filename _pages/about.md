@@ -63,7 +63,8 @@ Experiences
 Professional Memberships
 ======
 
-- IEEE Professional Member (2025 - Present)  
+- IEEE Professional Member (2025 - Present)
+- IEEE ComSoc Society Membership (2025 - Present)
 
 Professional Services
 =====
