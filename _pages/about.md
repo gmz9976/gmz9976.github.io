@@ -30,7 +30,7 @@ Publications
 
   - Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection
     - <u>Mingzhe Gao</u>, Ligeng Chen, Yiling He, Yuhang Chen, Lingyun Ying, Wang Yang
-    - IWQOS (CCF Rank B, 2025)
+    - IWQOS (CCF Rank B, 2025), acceptance rate 23.6% (101/428)
   
   - [PFORTIFIER: Mitigating PHP Object Injection through Automatic Patch Generation](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a918/26hiU0IeM3S)
     - Bo Pang, Yiheng Zhang, <u>Mingzhe Gao</u>, Junzhe Zhang, Ligeng Chen, Mingxue Zhang, Gang Liang
