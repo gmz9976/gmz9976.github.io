@@ -28,7 +28,7 @@ Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
 
-  - Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection
+  - [Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection](../assets/2025192311.pdf)
     - <u>Mingzhe Gao</u>, Ligeng Chen, Yiling He, Yuhang Chen, Lingyun Ying, Wang Yang
     - IWQOS (CCF Rank B, 2025), acceptance rate 23.6% (101/428)
   
