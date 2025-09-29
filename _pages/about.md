@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a security researcher at Tencent Keen Lab, focusing on malware detection.
+Currently, I am a security researcher at Tencent Security Keen Lab, focusing on malware analysis and detection.
 
 Before that, I received my M.Eng. from the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), Southeast University in January 2022, advised by [Prof. Jian Gong](https://cyber.seu.edu.cn/gj1/list.htm) and [Ph.D. Wang Yang](https://cyber.seu.edu.cn/yw1/list.htm).
 
