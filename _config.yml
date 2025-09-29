@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Mingzhe Gao"
   avatar           : "me.jpg"
-  bio              : "security engineer"
-  location         : "Hangzhou China"
-  employer         : "Alibaba Cloud"
+  bio              : "security researcher"
+  location         : "Shanghai China"
+  employer         : "Tencent"
   email            : "mzgao@njnet.edu.cn"
   blog             : "https://mzgao.blog.csdn.net/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
