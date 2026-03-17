@@ -27,6 +27,10 @@ My current research interests primarily revolve around Software Security, System
 Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
+  - [Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching]
+    - Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, Hao wu
+    - ICME (CCF Rank B, 2026), acceptance rate 28.89% (1101 / 3810)
+
 
   - [Distilling Benign Knowledge with Fine-Grained AST Fragments for Precise Real-World Web Shell Detection](https://ieeexplore.ieee.org/document/11143530)
     - <u>Mingzhe Gao</u>, Ligeng Chen, Yiling He, Yuhang Chen, Lingyun Ying, Wang Yang
