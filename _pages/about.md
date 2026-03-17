@@ -27,7 +27,7 @@ My current research interests primarily revolve around Software Security, System
 Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
-  - [Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching]
+  - [Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching](https://2026.ieeeicme.org/)
     - Wang Yang, Chen Mao, Ligeng Chen, <u>Mingzhe Gao</u>, Shucheng Li, Hao wu
     - ICME (CCF Rank B, 2026), acceptance rate 28.89% (1101 / 3810)
 
