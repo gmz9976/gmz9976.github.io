@@ -28,7 +28,7 @@ Publications
 ======
 <font color=Blue>"(*)" Denotes the Corresponding Author.</font>
   - [Extend Multi-Scale Subgraph Features to Enhance Node Representation for Robust Graph Matching]
-    - Wang Yang, Chen Mao, Ligeng Chen, Mingzhe Gao, Shucheng Li, Hao wu
+    - Wang Yang, Chen Mao, Ligeng Chen, <u>Mingzhe Gao</u>, Shucheng Li, Hao wu
     - ICME (CCF Rank B, 2026), acceptance rate 28.89% (1101 / 3810)
 
 
